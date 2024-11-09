@@ -1,4 +1,4 @@
-```markdown
+
 # YouTube Notification System
 
 This project implements a simplified version of a YouTube application using RabbitMQ. It consists of three components: Youtuber, User, and YouTubeServer.
